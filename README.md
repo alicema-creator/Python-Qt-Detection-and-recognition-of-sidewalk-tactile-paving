@@ -48,7 +48,7 @@
 **OCC Opencascade+Qt+C++三维图像建模窗体点线面拾取：**[https://github.com/alicema-creator/OCC-Opencascade-Qt-C-3D-model-modeling-point-line-surface-pick-igs-iges-stp-step](https://github.com/alicema-creator/OCC-Opencascade-Qt-C-3D-model-modeling-point-line-surface-pick-igs-iges-stp-step)  
 **Python+Django+HTMLl网页前后端指纹信息识别：**[https://github.com/alicema-creator/Python-Django-HTML-web-fingerprint-information-recognition](https://github.com/alicema-creator/Python-Django-HTML-web-fingerprint-information-recognition)  
 **Html+threejs网页数字孪生场景三维可视化：**[https://github.com/alicema-creator/html-threejs-twin-scenes-3D-visualization-project](https://github.com/alicema-creator/html-threejs-twin-scenes-3D-visualization-project)  
-**Python+Qt人行道盲道特征检测识别窗体程序：**[https://github.com/alicema-creator/Python-Qt-Detection-and-recognition-of-sidewalk-tactile-paving]([https://github.com/alicema-creator/html-threejs-twin-scenes-3D-visualization-project](https://github.com/alicema-creator/Python-Qt-Detection-and-recognition-of-sidewalk-tactile-paving))  
+**Python+Qt人行道盲道特征检测识别窗体程序：**[https://github.com/alicema-creator/Python-Qt-Detection-and-recognition-of-sidewalk-tactile-paving](https://github.com/alicema-creator/Python-Qt-Detection-and-recognition-of-sidewalk-tactile-paving))  
 
 
 </font>  
